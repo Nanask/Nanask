@@ -6,4 +6,4 @@
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=185a9d)
 
-,67B26F,43cea2,4ca2cd,185a9d,2c3e50
+
